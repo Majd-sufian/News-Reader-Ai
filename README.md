@@ -2,7 +2,7 @@
 
 # A News app, controlled and navigated via voice using Alan Ai Voice.
 
-### [Live Site]()
+### [Live Site](https://news-reader-ai-majd-sufyan.netlify.app)
 
 ![Voice Controlled React News Application](https://github.com/Majd-sufian/News-Reader-Ai/blob/main/src/images/news-reader-ai-2.png?raw=true)
 

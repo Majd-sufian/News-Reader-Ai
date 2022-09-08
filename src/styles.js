@@ -10,7 +10,6 @@ export default makeStyles((theme) => ({
     height: "120px",
   },
   link: {
-    textDecoration: "none",
     color: "rgb(12 27 76)",
   },
   image: {
